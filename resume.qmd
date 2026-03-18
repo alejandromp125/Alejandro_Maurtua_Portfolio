@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alejandro Maurtua's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alejandro Maurtua
+Financial Analyst, Data Scientist, Husband and Father.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
